@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "bell-mt";
+  src: url("../assets/bell-mt.ttf");
+}
+
+$body-font-family: "bell-mt" !important;
+
+@import "~vuetify/src/styles/styles.sass";
+
+.section{
+
+  .title{
+    background-image: url("../assets/green-brush.png");
+    min-height: 50px;
+  }
+}
