@@ -13,7 +13,7 @@ Vue.component("font-awesome-icon", FontAwesomeIcon);
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "REPLACE-THIS-WITH-YOUR-KEY-FROM-ABOVE",
+    key: "AIzaSyBJGEvlWz-WiLlLZad48Vok9ztl5qzIqA4",
     libraries: "places", // necessary for places input
   },
 });
