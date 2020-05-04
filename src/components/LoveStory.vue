@@ -70,7 +70,7 @@
         <div class="col-xl-4 col-lg-4">
           <div class="single_lover_story text-center">
             <div class="story_thumb">
-              <img src="img/story/2.png" alt="" />
+              <img src="../assets/Noiva.png" alt="" />
             </div>
             <span>Noiva</span>
             <h3>Raquel de O. Teixeira</h3>

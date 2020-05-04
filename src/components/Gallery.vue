@@ -59,15 +59,6 @@
           </div>
         </div>
       </div>
-      <!-- <div class="grid row">
-            <div class="single_image grid-item">
-                <img src="img/gallery/1.png" alt="">
-            </div><div class="single_image grid-item">
-                <img src="img/gallery/2.png" alt="">
-            </div><div class="single_image grid-item">
-                <img src="img/gallery/3.png" alt="">
-            </div>
-        </div> -->
     </div>
   </div>
   <!--/ gallery_area  -->
